@@ -2,7 +2,7 @@
 <a href="https://kalanithi.dev"><img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/banner.png" /></a>
 </p>
 
-## Holla!
+### Holla!
 
 ### I'm <img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/pacman.gif" height="25"/> Kalanithi Sethuraman and
 
