@@ -1,4 +1,4 @@
-<p align="center">
+Function connect<p align="center">
 <a href="https://kalanithi.dev"><img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/banner.png" /></a>
 </p>
 
