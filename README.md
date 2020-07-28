@@ -4,7 +4,7 @@
 
 ### Holla!
 
-### I'm <img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/pacman.gif" height="25"/> Kalanithi Sethuraman and
+### I'm Kalanithi Sethuraman and
 
 ### I'm a Web Developer!
 
