@@ -13,19 +13,6 @@ I am a Software Engineer and independent full-stack Web developer living in Indi
 If you have any web development needs, feel free to contact or get to know me a little better.
 
 <br/>
-<br />
-
-
-### Connect with me:
-
-[<img align="left" alt="kalanithi.dev" width="22px" src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/81811df5ba87c020891329508fb75a1a5c49b635/images/globe.svg" />][website]
-[<img align="left" alt="i_am_nithi | Twitter" width="22px" src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/81811df5ba87c020891329508fb75a1a5c49b635/images/twitter.svg" />][twitter]
-[<img align="left" alt="kalanithiasethuraman | LinkedIn" width="22px" src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/81811df5ba87c020891329508fb75a1a5c49b635/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="kalanithisethuraman | Instagram" width="22px" src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/81811df5ba87c020891329508fb75a1a5c49b635/images/instagram.svg" />][instagram]
-
-<br />
-
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
